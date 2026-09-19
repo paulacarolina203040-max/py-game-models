@@ -1,5 +1,4 @@
 import json
-from pathlib import Path
 from db.models import Guild
 from db.models import Player
 from db.models import Race
